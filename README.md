@@ -6,9 +6,13 @@ The goal of this program is to reformat the raw turning-movement data collected 
 ## Requirements
 
 Python
+
 Python Image Library
+
 openpyxl
+
 xml.etree.ElementTree
+
 
 
 ## How To Use

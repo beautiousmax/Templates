@@ -1453,6 +1453,7 @@ def trial(index, h_dict):
     titles["total_vehicles"] = "Vehicles" if h_dict["total_vehicles"] else ""
     titles["cars"] = "Cars" if h_dict["cars"] else ""
     titles["buses"] = "Buses" if h_dict["buses"] else ""
+    titles["mediums"] = "Mediums" if h_dict["mediums"] else ""
     titles["heavy_trucks"] = "Heavy Trucks" if h_dict["heavy_trucks"] else ""
     titles["rtor"] = "RTOR" if h_dict["rtor"] else ""
     titles["bicycles"] = "Bicycles" if h_dict["bicycles"] else ""
